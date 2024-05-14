@@ -27,10 +27,10 @@ Execute the SQL scripts here. https://github.com/Mike-Simmons-DA/MikeTheAnalyst/
 
 README.md: This README file providing an overview of the project, setup instructions, and other relevant information.
 
-Usage
+Usage:
 Execute the SQL scripts provided in this repository to clean the dataset and perform any necessary data preparation tasks. You can also modify the scripts as needed to suit your specific requirements.
 
-Contributions
+Contributions:
 Contributions to this project are welcome. If you find any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request.
 
 
