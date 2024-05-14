@@ -1,7 +1,6 @@
 Data Cleaning Project
-Project Overview
-
-This project focuses on cleaning and preparing data using SQL. The dataset used in this project contains [describe the dataset briefly, including its source, format, and size].
+Project Overview: 
+This project focuses on cleaning and preparing data using SQL.
 
 Goals
 The primary goals of this project are:
