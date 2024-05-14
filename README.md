@@ -2,7 +2,7 @@ Data Cleaning Project
 Project Overview: 
 This project focuses on cleaning and preparing data using SQL.
 
-Goals
+Goals:
 The primary goals of this project are:
 
 Identify and handle missing values.
