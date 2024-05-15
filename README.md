@@ -22,7 +22,7 @@ Ensure you have access to a SQL database management system (DBMS) such as MySQL,
 Download or clone this repository to your local machine.
 Import the dataset into your SQL database.
 Open your SQL client and connect it to your database.
-Execute the SQL scripts here. https://github.com/Mike-Simmons-DA/MikeTheAnalyst/blob/main/Cleaning%20Data%20SQL%20Project
+Execute the SQL scripts saved above.
 
 README.md: This README file providing an overview of the project, setup instructions, and other relevant information.
 
